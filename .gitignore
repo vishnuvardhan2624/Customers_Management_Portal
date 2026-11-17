@@ -1,0 +1,10 @@
+# Backend
+BACKEND/CustomerPortal/target/
+BACKEND/CustomerPortal/bin/
+
+# Frontend
+FRONTEND/customer-portal-frontend/node_modules/
+FRONTEND/customer-portal-frontend/dist/
+
+# Environment files
+.env
