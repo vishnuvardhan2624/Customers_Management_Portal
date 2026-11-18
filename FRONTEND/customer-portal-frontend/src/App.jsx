@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import "./App.css";
 
-const API_URL = "http://localhost:8084/customers";
+const API_URL = "https://customers-management-portal.onrender.com/customers";
 
 const emptyCustomer = {
   name: "",
