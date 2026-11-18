@@ -13,7 +13,7 @@ package com.vishnu.CustomerPortal.controller;
 	import com.vishnu.CustomerPortal.model.Customer;
 	import com.vishnu.CustomerPortal.repo.CustomerRepository;
 	
-	@CrossOrigin(origins = "http://localhost:5173")
+	@CrossOrigin(origins = "https://customers-management-portal-frontend.onrender.com")
 
 	@RestController
 	@RequestMapping("/customers")
